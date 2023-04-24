@@ -21,7 +21,7 @@ player = input()
 print(f"You are playing as a {player}. Let's start the game!\n")
 
 
-#Which Door?
+# Which Door?
 print("You see three doors in front of you.")
 print("Which one will you choose? Door #1, door #2 or door #3?")
 

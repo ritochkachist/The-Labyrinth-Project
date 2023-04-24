@@ -1,0 +1,31 @@
+War (Card Game)
+The Labyrinth (#)
+Rock Paper Scissors
+Which Door
+Durak
+
+
+
+
+The Labyrinth
+- A Bear
+- Wrong Turn (back to start)
+- Rockman (R,P,S)
+- Which Door
+- Baba Yaga
+
+
+List- Picking Player, Bear food - R
+Random- RPS-P, Guess Higher Number-P
+If Statements- Bear, Which Door - R
+Loop- Wrong turn (3+ lefts)-P
+
+1. Picking Player-R
+2. Which Door-R
+3. RPS-P
+4. Wrong Turn-P
+5. Guess Higher Number-R
+6. Ending-P
+
+
+exit function to end program (you lose) - exit()
